@@ -1,10 +1,10 @@
 # Mapty
 
-**Here is my [Mapty](DemoLink) project!**:wink: 
+**Here is my [Mapty](https://devmuzaky.github.io/Mapty--JS/) project!**:wink: 
 
 Take a look this project with the features down below. 
 
-[live demo](DemoLink)
+[live demo](https://devmuzaky.github.io/Mapty--JS/)
 
 ## What I did in this project
 
